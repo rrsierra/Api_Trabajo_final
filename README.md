@@ -76,13 +76,13 @@ API-REST-TRABAJO-FINAL
 ## 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/usuario/API-REST-TRABAJO-FINAL.git
+git clone https://github.com/rrsierra/Api_Trabajo_final.git
 ```
 
 ## 2. Ingresar al proyecto
 
 ```bash
-cd API-REST-TRABAJO-FINAL
+cd Api_Trabajo_final
 ```
 
 ## 3. Instalar dependencias
